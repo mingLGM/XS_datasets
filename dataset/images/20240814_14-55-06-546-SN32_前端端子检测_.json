@@ -1,0 +1,156 @@
+{
+  "version": "2.5.4",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "JPYJ",
+      "score": null,
+      "points": [
+        [
+          817.4285714285716,
+          1361.5714285714284
+        ],
+        [
+          974.5714285714287,
+          1361.5714285714284
+        ],
+        [
+          974.5714285714287,
+          1504.4285714285713
+        ],
+        [
+          817.4285714285716,
+          1504.4285714285713
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "JPCD",
+      "score": null,
+      "points": [
+        [
+          824.5714285714287,
+          1266.9285714285713
+        ],
+        [
+          967.4285714285716,
+          1266.9285714285713
+        ],
+        [
+          967.4285714285716,
+          1357.9999999999998
+        ],
+        [
+          824.5714285714287,
+          1357.9999999999998
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "XXYJ",
+      "score": null,
+      "points": [
+        [
+          826.3571428571429,
+          986.5714285714286
+        ],
+        [
+          954.9285714285716,
+          986.5714285714286
+        ],
+        [
+          954.9285714285716,
+          1241.9285714285713
+        ],
+        [
+          826.3571428571429,
+          1241.9285714285713
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "XXCT",
+      "score": null,
+      "points": [
+        [
+          829.9285714285716,
+          904.4285714285714
+        ],
+        [
+          954.9285714285716,
+          904.4285714285714
+        ],
+        [
+          954.9285714285716,
+          977.6428571428571
+        ],
+        [
+          829.9285714285716,
+          977.6428571428571
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "JPCT",
+      "score": null,
+      "points": [
+        [
+          826.3571428571429,
+          1245.4999999999998
+        ],
+        [
+          965.6428571428573,
+          1245.4999999999998
+        ],
+        [
+          965.6428571428573,
+          1266.9285714285713
+        ],
+        [
+          826.3571428571429,
+          1266.9285714285713
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "20240814_14-55-06-546-SN32_前端端子检测_.bmp",
+  "imageData": null,
+  "imageHeight": 1666,
+  "imageWidth": 1992,
+  "description": ""
+}

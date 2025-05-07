@@ -1,0 +1,127 @@
+{
+  "version": "2.5.4",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "JPYJ",
+      "score": null,
+      "points": [
+        [
+          636.3414634146342,
+          879.9756097560976
+        ],
+        [
+          742.439024390244,
+          879.9756097560976
+        ],
+        [
+          742.439024390244,
+          983.6341463414634
+        ],
+        [
+          636.3414634146342,
+          983.6341463414634
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "JPCD",
+      "score": null,
+      "points": [
+        [
+          632.6829268292684,
+          758.0243902439025
+        ],
+        [
+          733.9024390243903,
+          758.0243902439025
+        ],
+        [
+          733.9024390243903,
+          875.0975609756098
+        ],
+        [
+          632.6829268292684,
+          875.0975609756098
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "XXYJ",
+      "score": null,
+      "points": [
+        [
+          643.6585365853659,
+          666.5609756097562
+        ],
+        [
+          703.4146341463415,
+          666.5609756097562
+        ],
+        [
+          703.4146341463415,
+          756.8048780487806
+        ],
+        [
+          643.6585365853659,
+          756.8048780487806
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "XXCT",
+      "score": null,
+      "points": [
+        [
+          632.6829268292684,
+          640.9512195121952
+        ],
+        [
+          710.7317073170732,
+          640.9512195121952
+        ],
+        [
+          710.7317073170732,
+          664.1219512195122
+        ],
+        [
+          632.6829268292684,
+          664.1219512195122
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "20240814_16-35-26-704-SN26_后端端子检测_.bmp",
+  "imageData": null,
+  "imageHeight": 1138,
+  "imageWidth": 1380,
+  "description": ""
+}
